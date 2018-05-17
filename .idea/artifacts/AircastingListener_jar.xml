@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="AircastingListener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AircastingListener_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AircastingListener.jar">
+        <element id="module-output" name="AircastingListener" />
+      </element>
+      <element id="library" level="project" name="bluecove-2.1.1-SNAPSHOT" />
+      <element id="library" level="project" name="bluecove-emu-2.1.1-SNAPSHOT" />
+      <element id="library" level="project" name="bluecove-bluez-2.1.1-SNAPSHOT" />
+      <element id="library" level="project" name="bluecove-gpl-2.1.1-SNAPSHOT" />
+    </root>
+  </artifact>
+</component>
